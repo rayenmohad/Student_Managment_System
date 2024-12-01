@@ -28,22 +28,23 @@ A powerful **PHP-based Student Management System** designed to simplify the mana
 ## **Technologies Used**
 
 - **PHP 8.x**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="100" /> <br> Core back-end logic.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="100" alt="PHP Logo"/> <br> Core back-end logic.
 
 - **MySQL**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/MySQL_logo.svg/1200px-MySQL_logo.svg.png" width="100" /> <br> Database for managing student data.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/MySQL_logo.svg/1200px-MySQL_logo.svg.png" width="100" alt="MySQL Logo"/> <br> Database for managing student data.
 
 - **Bootstrap 5**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap_5_logo.svg" width="100" /> <br> Responsive and modern UI.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap_5_logo.svg" width="100" alt="Bootstrap 5 Logo"/> <br> Responsive and modern UI.
 
 - **JavaScript**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/JavaScript_logo_2.svg" width="100" /> <br> Enhances interactivity and form validation.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/JavaScript_logo_2.svg" width="100" alt="JavaScript Logo"/> <br> Enhances interactivity and form validation.
 
 - **XAMPP**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/XAMPP_Logo_2010.png" width="100" /> <br> Local server environment for testing.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/XAMPP_Logo_2010.png" width="100" alt="XAMPP Logo"/> <br> Local server environment for testing.
 
 - **Git**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Git-logo.svg" width="100" /> <br> Version control system.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Git-logo.svg" width="100" alt="Git Logo"/> <br> Version control system.
+
 
 ---
 
