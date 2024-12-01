@@ -23,7 +23,7 @@ A powerful **PHP-based Student Management System** designed to simplify the mana
 - User-friendly interface with Bootstrap integration.
 - Built-in error handling for smooth operations.
 
----
+
 
 ## **Technologies Used**
 
@@ -45,7 +45,7 @@ A powerful **PHP-based Student Management System** designed to simplify the mana
 - **Git**  
   ![Git](https://upload.wikimedia.org/wikipedia/commons/0/00/Git-logo.svg | width=100) <br> Version control system.
 
----
+
 
 ## **Installation**
 
