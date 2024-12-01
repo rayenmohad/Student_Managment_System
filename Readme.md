@@ -44,7 +44,7 @@ A powerful **PHP-based Student Management System** designed to simplify the mana
   Enhances interactivity and form validation.
 
 - **XAMPP**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/XAMPP_logo.svg" width="100" alt="XAMPP Logo"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/XAMPP_Logo_2010.png" width="100" alt="XAMPP Logo"/>  
   Local server environment for testing.
 
 - **Git**  
