@@ -27,12 +27,23 @@ A powerful **PHP-based Student Management System** designed to simplify the mana
 
 ## **Technologies Used**
 
-- **PHP 8.x** ![PHP](https://img.shields.io/badge/PHP-8.x-blue) <br> Core back-end logic.
-- **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-database-orange) <br> Database for managing student data.
-- **Bootstrap 5** ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-5-blueviolet) <br> Responsive and modern UI.
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-%20-yellow) <br> Enhances interactivity and form validation.
-- **XAMPP** ![XAMPP](https://img.shields.io/badge/XAMPP-local%20server-yellowgreen) <br> Local server environment for testing.
-- **Git** ![Git](https://img.shields.io/badge/Git-%20-lightgray) <br> Version control system.
+- **PHP 8.x**  
+  ![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png) <br> Core back-end logic.
+
+- **MySQL**  
+  ![MySQL](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/MySQL_logo.svg/1200px-MySQL_logo.svg.png) <br> Database for managing student data.
+
+- **Bootstrap 5**  
+  ![Bootstrap 5](https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap_5_logo.svg) <br> Responsive and modern UI.
+
+- **JavaScript**  
+  ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/d/d9/JavaScript_logo_2.svg) <br> Enhances interactivity and form validation.
+
+- **XAMPP**  
+  ![XAMPP](https://upload.wikimedia.org/wikipedia/commons/0/06/XAMPP_Logo_2010.png) <br> Local server environment for testing.
+
+- **Git**  
+  ![Git](https://upload.wikimedia.org/wikipedia/commons/0/00/Git-logo.svg) <br> Version control system.
 
 ---
 
@@ -83,29 +94,29 @@ Below are some screenshots of the application to give you a visual overview:
 
 ### **Student Management**
 - **Student Dashboard**  
-  ![Student Dashboard](ScreenShots/studentscreen3.png)  
+  ![Student Dashboard](studentscreen3.png)  
   _The overview of the student’s details and actions._
   
 - **Add New Student**  
-  ![Add Student Screen](ScreenShots/studentscreen2.png)  
+  ![Add Student Screen](studentscreen2.png)  
   _The form to add a new student to the system._
   
 - **Student Details**  
-  ![Student Details](ScreenShots/studentscreen1.png)  
+  ![Student Details](studentscreen1.png)  
   _Detailed information of the student._
 
 ### **Professor Management**
 - **Professor Overview**  
-  ![Professor Management](ScreenShots/professor.png)  
+  ![Professor Management](professor.png)  
   _Manage professor data and assign classes._
 
 ### **Material Management**
 - **Add New Material**  
-  ![Add Material](ScreenShots/material3.png)  
+  ![Add Material](material3.png)  
   _Add new material for courses or lectures._
   
 - **Material Details**  
-  ![Material Details](ScreenShots/material1.png)  
+  ![Material Details](material1.png)  
   _Detailed view of educational material._
 
 > All screenshots are stored in the `ScreenShots` folder for easy reference.
@@ -144,5 +155,3 @@ This project is licensed under the MIT License.
 Feel free to reach out if you have any questions or suggestions!
 
 ✉️ **Email**: [mohamed.rayen.gharbi2004@gmail.com](mailto:mohamed.rayen.gharbi2004@gmail.com)  
-
-
