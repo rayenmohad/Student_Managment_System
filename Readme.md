@@ -23,29 +23,29 @@ A powerful **PHP-based Student Management System** designed to simplify the mana
 - User-friendly interface with Bootstrap integration.
 - Built-in error handling for smooth operations.
 
-
+---
 
 ## **Technologies Used**
 
 - **PHP 8.x**  
-  ![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png | width=100) <br> Core back-end logic.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="100" /> <br> Core back-end logic.
 
 - **MySQL**  
-  ![MySQL](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/MySQL_logo.svg/1200px-MySQL_logo.svg.png | width=100) <br> Database for managing student data.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/MySQL_logo.svg/1200px-MySQL_logo.svg.png" width="100" /> <br> Database for managing student data.
 
 - **Bootstrap 5**  
-  ![Bootstrap 5](https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap_5_logo.svg | width=100) <br> Responsive and modern UI.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap_5_logo.svg" width="100" /> <br> Responsive and modern UI.
 
 - **JavaScript**  
-  ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/d/d9/JavaScript_logo_2.svg | width=100) <br> Enhances interactivity and form validation.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/JavaScript_logo_2.svg" width="100" /> <br> Enhances interactivity and form validation.
 
 - **XAMPP**  
-  ![XAMPP](https://upload.wikimedia.org/wikipedia/commons/0/06/XAMPP_Logo_2010.png | width=100) <br> Local server environment for testing.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/XAMPP_Logo_2010.png" width="100" /> <br> Local server environment for testing.
 
 - **Git**  
-  ![Git](https://upload.wikimedia.org/wikipedia/commons/0/00/Git-logo.svg | width=100) <br> Version control system.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Git-logo.svg" width="100" /> <br> Version control system.
 
-
+---
 
 ## **Installation**
 
@@ -119,6 +119,7 @@ Below are some screenshots of the application to give you a visual overview:
   ![Material Details](material1.png)  
   _Detailed view of educational material._
 
+---
 
 ## **Contributing**
 
