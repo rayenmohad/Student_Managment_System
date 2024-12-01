@@ -32,7 +32,7 @@ A powerful **PHP-based Student Management System** designed to simplify the mana
   Core back-end logic.
 
 - **MySQL**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/MySQL_logo.svg/1200px-MySQL_logo.svg.png" width="100" alt="MySQL Logo"/>  
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="100" alt="MySQL Logo"/>
   Database for managing student data.
 
 - **Bootstrap 5**  
