@@ -27,7 +27,7 @@ A powerful PHP-based Student Management System designed to simplify the manageme
 - **JavaScript** <i class="fab fa-js-square"></i>: Enhances interactivity and form validation.
 - **XAMPP** <i class="fab fa-xampp"></i>: Local server environment for testing.
 - **Git** <i class="fab fa-git-alt"></i>: Version control system.
-  ---
+
 ## Installation
 
 1. **Clone the repository:**
