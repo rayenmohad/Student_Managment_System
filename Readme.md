@@ -20,15 +20,14 @@ A powerful PHP-based Student Management System designed to simplify the manageme
 * User-friendly interface with Bootstrap integration.
 * Built-in error handling for smooth operations.
 
-## Technologies Used
-
-**PHP 8.x** <i class="fab fa-php"></i>: Core back-end logic.
-**MySQL** <i class="fas fa-database"></i>: Database for managing student data.
-**Bootstrap 5** <i class="fab fa-bootstrap"></i>: Responsive and modern UI.
-**JavaScript** <i class="fab fa-js-square"></i>: Enhances interactivity and form validation.
-**XAMPP** <i class="fab fa-xampp"></i>: Local server environment for testing.
-**Git** <i class="fab fa-git-alt"></i>: Version control system.
-
+## **Technologies Used**
+- **PHP 8.x** <i class="fab fa-php"></i>: Core back-end logic.
+- **MySQL** <i class="fas fa-database"></i>: Database for managing student data.
+- **Bootstrap 5** <i class="fab fa-bootstrap"></i>: Responsive and modern UI.
+- **JavaScript** <i class="fab fa-js-square"></i>: Enhances interactivity and form validation.
+- **XAMPP** <i class="fab fa-xampp"></i>: Local server environment for testing.
+- **Git** <i class="fab fa-git-alt"></i>: Version control system.
+  ---
 ## Installation
 
 1. **Clone the repository:**
