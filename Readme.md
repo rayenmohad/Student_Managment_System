@@ -28,22 +28,22 @@ A powerful **PHP-based Student Management System** designed to simplify the mana
 ## **Technologies Used**
 
 - **PHP 8.x**  
-  ![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png) <br> Core back-end logic.
+  ![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png | width=100) <br> Core back-end logic.
 
 - **MySQL**  
-  ![MySQL](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/MySQL_logo.svg/1200px-MySQL_logo.svg.png) <br> Database for managing student data.
+  ![MySQL](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/MySQL_logo.svg/1200px-MySQL_logo.svg.png | width=100) <br> Database for managing student data.
 
 - **Bootstrap 5**  
-  ![Bootstrap 5](https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap_5_logo.svg) <br> Responsive and modern UI.
+  ![Bootstrap 5](https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap_5_logo.svg | width=100) <br> Responsive and modern UI.
 
 - **JavaScript**  
-  ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/d/d9/JavaScript_logo_2.svg) <br> Enhances interactivity and form validation.
+  ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/d/d9/JavaScript_logo_2.svg | width=100) <br> Enhances interactivity and form validation.
 
 - **XAMPP**  
-  ![XAMPP](https://upload.wikimedia.org/wikipedia/commons/0/06/XAMPP_Logo_2010.png) <br> Local server environment for testing.
+  ![XAMPP](https://upload.wikimedia.org/wikipedia/commons/0/06/XAMPP_Logo_2010.png | width=100) <br> Local server environment for testing.
 
 - **Git**  
-  ![Git](https://upload.wikimedia.org/wikipedia/commons/0/00/Git-logo.svg) <br> Version control system.
+  ![Git](https://upload.wikimedia.org/wikipedia/commons/0/00/Git-logo.svg | width=100) <br> Version control system.
 
 ---
 
@@ -119,9 +119,6 @@ Below are some screenshots of the application to give you a visual overview:
   ![Material Details](material1.png)  
   _Detailed view of educational material._
 
-> All screenshots are stored in the `ScreenShots` folder for easy reference.
-
----
 
 ## **Contributing**
 
@@ -155,3 +152,4 @@ This project is licensed under the MIT License.
 Feel free to reach out if you have any questions or suggestions!
 
 ✉️ **Email**: [mohamed.rayen.gharbi2004@gmail.com](mailto:mohamed.rayen.gharbi2004@gmail.com)  
+
