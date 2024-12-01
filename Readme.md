@@ -1,3 +1,7 @@
+Here is the full `README.md` version with all the information you requested:
+
+---
+
 ```markdown
 # **Student Management System**
 
@@ -129,4 +133,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## **Author**
 👤 **Mohamed Rayen Gharbi**  
-📧 Email: [your-email@example.com](mailto:mohame.rayen.gharbi2004@gmail.com.com)  
+📧 Email: [mohame.rayen.gharbi2004@gmail.com](mailto:mohame.rayen.gharbi2004@gmail.com)   
+
