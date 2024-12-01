@@ -1,0 +1,44 @@
+# Ignore IDE configurations
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment/configuration files
+config.php
+
+# Ignore cache and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore compiled files
+*.class
+
+# Ignore SQL dumps (optional, if you don't want to share them)
+*.sql
+
+# Ignore vendor and dependency folders (if using Composer)
+vendor/
+
+# Ignore node_modules (if any Node.js tools were used)
+node_modules/
+
+# Ignore deployment and build artifacts
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Ignore backup files
+*.old
+*.save
+
+# Ignore user-specific files
+*.~lock.*
+*.~*
+
+# Ignore generated files (PDFs, etc.)
+*.pdf
