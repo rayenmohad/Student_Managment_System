@@ -90,7 +90,7 @@ A powerful PHP-based Student Management System designed to simplify the manageme
 ###  Material Management
 
   - **Add New Material**
-    ![Add Material](meterial3.png)
+    ![Add Material](material3.png)
   - **Material Details**
     ![Material Details](material1.png)
 
