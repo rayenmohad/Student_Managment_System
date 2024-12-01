@@ -28,28 +28,29 @@ A powerful **PHP-based Student Management System** designed to simplify the mana
 ## **Technologies Used**
 
 - **PHP 8.x**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="100" alt="PHP Logo"/>  
+  <img src="https://www.php.net/images/logos/php-logo.svg" width="100" alt="PHP Logo"/>  
   Core back-end logic.
 
 - **MySQL**  
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="100" alt="MySQL Logo"/>
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="100" alt="MySQL Logo"/>  
   Database for managing student data.
 
 - **Bootstrap 5**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap_5_logo.svg" width="100" alt="Bootstrap 5 Logo"/>  
+  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="100" alt="Bootstrap 5 Logo"/>  
   Responsive and modern UI.
 
 - **JavaScript**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/JavaScript_logo_2.svg" width="100" alt="JavaScript Logo"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100" alt="JavaScript Logo"/>  
   Enhances interactivity and form validation.
 
 - **XAMPP**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/XAMPP_Logo_2010.png" width="100" alt="XAMPP Logo"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/XAMPP_logo.svg" width="100" alt="XAMPP Logo"/>  
   Local server environment for testing.
 
 - **Git**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Git-logo.svg" width="100" alt="Git Logo"/>  
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" alt="Git Logo"/>  
   Version control system.
+
 
 
 
