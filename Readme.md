@@ -28,22 +28,29 @@ A powerful **PHP-based Student Management System** designed to simplify the mana
 ## **Technologies Used**
 
 - **PHP 8.x**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="100" alt="PHP Logo"/> <br> Core back-end logic.
+  ![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png)  
+  Core back-end logic.
 
 - **MySQL**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/MySQL_logo.svg/1200px-MySQL_logo.svg.png" width="100" alt="MySQL Logo"/> <br> Database for managing student data.
+  ![MySQL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/MySQL_logo.svg/1200px-MySQL_logo.svg.png)  
+  Database for managing student data.
 
 - **Bootstrap 5**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap_5_logo.svg" width="100" alt="Bootstrap 5 Logo"/> <br> Responsive and modern UI.
+  ![Bootstrap 5 Logo](https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap_5_logo.svg)  
+  Responsive and modern UI.
 
 - **JavaScript**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/JavaScript_logo_2.svg" width="100" alt="JavaScript Logo"/> <br> Enhances interactivity and form validation.
+  ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/JavaScript_logo_2.svg)  
+  Enhances interactivity and form validation.
 
 - **XAMPP**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/XAMPP_Logo_2010.png" width="100" alt="XAMPP Logo"/> <br> Local server environment for testing.
+  ![XAMPP Logo](https://upload.wikimedia.org/wikipedia/commons/0/06/XAMPP_Logo_2010.png)  
+  Local server environment for testing.
 
 - **Git**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Git-logo.svg" width="100" alt="Git Logo"/> <br> Version control system.
+  ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/0/00/Git-logo.svg)  
+  Version control system.
+
 
 
 ---
