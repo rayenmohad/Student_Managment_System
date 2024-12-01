@@ -75,8 +75,10 @@ A powerful PHP-based Student Management System designed to simplify the manageme
 
   - **Student Dashboard**
     ![Student Dashboard](studentscreen3.png)
+    
   - **Add New Student**
     ![Add Student Screen](studentscreen2.png)
+    
   - **Student Details**
     ![Student Details](studentscreen1.png)
 
